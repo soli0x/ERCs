@@ -2,7 +2,7 @@
 title: Agent Pre-Sign Risk Report
 description: Typed, block-pinned facts a risk source returns about a prepared transaction before an agent or wallet signs it
 author: Toll (@soli0x)
-discussions-to: https://ethereum-magicians.org/t/pre-erc-agent-pre-sign-risk-report/TBD
+discussions-to: https://ethereum-magicians.org/t/pre-erc-agent-pre-sign-risk-report/30145
 status: Draft
 type: Standards Track
 category: ERC
